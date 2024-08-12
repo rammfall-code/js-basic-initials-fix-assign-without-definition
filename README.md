@@ -1,6 +1,6 @@
-# template-vanilla
+# js-basic-initials-fix-assign-without-definition
 
-## Text
+## Add correct directives for definition of variables
 
 ## Criteria:
 
